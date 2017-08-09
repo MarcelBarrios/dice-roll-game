@@ -108,7 +108,8 @@ const state = {
 
   player2: {
     count: 0
-  }
+  },
+  
 }
 
 module.exports = state
